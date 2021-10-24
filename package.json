@@ -15,5 +15,7 @@
         "watch": "encore dev --watch",
         "build": "encore production --progress"
     },
-    "dependencies": {}
+    "dependencies": {
+        "fomantic-ui": "^2.8.8"
+    }
 }
